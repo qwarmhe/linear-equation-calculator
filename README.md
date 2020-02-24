@@ -1,0 +1,4 @@
+# Linear_MaxMin
+
+TENKORANG DANIEL
+10659057
